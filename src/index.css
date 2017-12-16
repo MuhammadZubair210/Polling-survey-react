@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.App-title{
+  text-align: center;
+}
+
+.subheading{
+  text-align: center;
+}
